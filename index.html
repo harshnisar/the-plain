@@ -2,12 +2,14 @@
 layout: default
 ---
 
-<div class="center">
+<center>
 	<h2><a href="http://harshnisar.github.io/projects">Projects</a></h2>
-	 </div>	
+	 </center>	
 
 <section>
 
+	
+	
 	{% for post in site.posts %}
 		{% unless post.next %}
 			<h3>{{ post.date | date: '%Y' }} &#172;</h3>
