@@ -1,5 +1,7 @@
-
-## Government and Public Policy
+---
+layout: page
+title: About
+---
 
 ___
 
