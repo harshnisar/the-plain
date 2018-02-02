@@ -4,12 +4,11 @@
 
 ___
 
-### DISHA - Single Dashboard for monitoring schemes across 20 ministries
+### DISHA - Unified Dashboard for monitoring schemes across 20 ministries
 Ministry of Rural Development
 
-Co-wrote the Software Requirement Specifications for DISHA Portal.
-```A smart governance tool developed for MPs and MLAs for monitoring of implementation of various Programmes and Schemes of different Ministries in their constituency through a single portal. As on date, integration of datasets of 41 programmes and schemes of 20 Ministries has been achieved on this Portal. 
-```
+Co-wrote the Software Requirement Specifications for DISHA Portal - a smart governance tool developed for MPs and MLAs for monitoring of implementation of various Programmes and Schemes of different Ministries in their constituency through a single portal. As on date, integration of datasets of 41 programmes and schemes of 20 Ministries has been achieved on this Portal. 
+
 The Portal was inaugrated by the Prime Minister of India.
 
 ___
