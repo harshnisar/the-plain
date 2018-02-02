@@ -42,7 +42,9 @@ ___
 ### Investigating rural/urban bias in district target allocation
 IFMR LEAD | Ministry of Rural Development
 
-With the help of data, invesitage
+With the help of data, investigated a bias in setting up of District targets in skill development scheme. It was found that more urban the District, the more targets were allocated. Created an index using Socio-Economic Caste Census 2011 and Census 2011 data to setup further targets in a data-driven manner based on the `need` of the District.
+
+Tool has been used to successfuly rectify allocation of targets in the State of Maharastra and Kerala.
 
 ___
 
