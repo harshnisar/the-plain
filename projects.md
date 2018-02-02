@@ -1,4 +1,3 @@
-# Projects
 
 ## Government and Public Policy
 
