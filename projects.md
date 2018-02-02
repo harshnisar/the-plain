@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Project
 ---
 
-___
 
 ### DISHA - Unified Dashboard for monitoring schemes across 20 ministries
  NIC | Ministry of Rural Development
