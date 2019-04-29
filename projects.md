@@ -14,10 +14,10 @@ The Portal was inaugrated by the Prime Minister of India.
 ___
 
 
-### Desining National MIS system for a government scheme
+### Designing National MIS system for a government scheme
 NIC | Ministry of Rural Development
 
-[**[website]**](http://ddugky.gov.in/mprmis/) [**[Politics of KPIs]**](http://schd.ws/hosted_files/2017ict4dconference/b5/Politics%20of%20KPIs.pdf)
+[**[website]**](http://kaushalpragati.nic.in/) [**[Politics of KPIs]**](http://schd.ws/hosted_files/2017ict4dconference/b5/Politics%20of%20KPIs.pdf)
 
 Helped design the input forms, Key Performance Indices (KPIs), reports and visualization dashboards for DDUGKY's monitoring and evaluation.
 Key focus on UX. Paritcipatory approach along with multiple stakeholder interviews and field visits. 
