@@ -18,7 +18,7 @@ From code and pilot on QGIS to a paragraph in the final policy guidelines - it t
 
 ## Here are some of my thoughts/notes from the process:
 
-Fairness, Transparency and Accountability are not new concepts in Governance
+### Fairness, Transparency and Accountability are not new concepts in Governance
 Mechanisms of fairness, transparency and accountability are installed in government functioning over years and I found them to naturally flow (with some prodding) into the realm of automatic decision making or IT which to be them is another means to an end. Admittedly, the manifestation of FAT principles or questioning wasn’t exactly technical in nature. But I believe the nature of questioning can be expanded further given the first principles seem to exist. Some questions that I was posed came from a deep sense of equity and civic duties while some came from fear of internal government audits and  jaded experience with past failed IT projects.
 
 ### Can you calculate this on paper?
@@ -50,7 +50,7 @@ This may involve the following:
  - Decoupling of existing processes to make space for intervention.
 Eg. The shapefiles required for the algorithm were being uploaded digitally only after the selection of roads was completed and hence didn’t give a point of intervention.
 
-Careful scoping of AI/ML interventions while understanding the constraints under which technology operates in Government is the key to successfully implementing this projects. 
+Careful scoping of AI/ML interventions while understanding the constraints under which technology operates in Government is the key to successfully implementing these projects. 
 
 ### Importance of clear internal Accountability
 The fact that I was internal and single-handedly pushing for this algorithm made it internally very easy to made accountable for incase things go awry. This acted as an additional personal incentive to be sure of what I advocating for. Although, I don’t think this is largely the case in other government technology projects especially if the solution was being proposed by a larger monolith corporation. The natural proposal is to ensure clear accountability measures for high priority projects. This would be two fold - better contract management with external vendors and having competent & clear roles designated inside the department for IT liaison. 
@@ -123,7 +123,7 @@ The same will be applicable to optimization and AI projects as well. For example
 
 Similarly, this may also occur while working on supervised learning projects in which geographies with poor data will end up being chunked out in the data cleaning or scoping phase itself. 
 
-*Blog posts are not intended to be final products, but rather a reflection of current thinking and/or catalysts for discussion, like tweets but longer.*
+*Blog posts are not intended to be final products, but rather a reflection of current thinking and/or catalysts for discussion, like tweets but longer. These thoughts are my own and don't represent that of the Government of India.*
 
 
 ======END======
