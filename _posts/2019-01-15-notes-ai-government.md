@@ -1,5 +1,5 @@
 ---
-title: Notes and Thoughts from developing an AI/ML project in the Indian Government
+title: Notes and Thoughts from developing an AI/ML/Optimization project in the Indian Government
 layout: post
 category: posts
 published: true
